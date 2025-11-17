@@ -1,0 +1,21 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: #858a85;
+    color: #000000;
+}
+button {
+    background-color: #858a85;
+    color: #000000;
+    padding: 10px 15px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    cursor: pointer;
+}
+header {
+    background-color: #858a85;
+    color: #000000;
+    padding: 10px 0;
+    text-align: left;
+}
